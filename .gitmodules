@@ -1,3 +1,6 @@
 [submodule "zhenjiang-rainfall"]
 	path = zhenjiang-rainfall
 	url = https://github.com/longavailable/zhenjiang-rainfall
+[submodule "zhenjiang-geo"]
+	path = zhenjiang-geo
+	url = https://github.com/longavailable/zhenjiang-geo
